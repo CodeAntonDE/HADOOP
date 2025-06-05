@@ -44,6 +44,12 @@
 
 # 5) Как работает HDFS?
 
+![image](https://github.com/user-attachments/assets/4cdc7ae6-8f11-400c-9149-2e5d33f80031)
+
+![image](https://github.com/user-attachments/assets/3804e624-d663-432a-9a52-76273b68a09d)
+
+![image](https://github.com/user-attachments/assets/5aa3c811-76ff-4fcc-b948-680213b3515e)
+
 *************************************************************************************************
 
 # 6) Для чего нужна NameNode, Secondary NameNode?
