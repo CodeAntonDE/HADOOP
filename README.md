@@ -4,7 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/947470d1-a38e-46c9-b1e0-2e90de5635b8)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c79a1cb0-ac52-4ddf-a07a-04fcd4bacce2)
+
 
 *************************************************************************************************
 # 2) Что такое YARN?
