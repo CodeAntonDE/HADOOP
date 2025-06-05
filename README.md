@@ -21,6 +21,12 @@
 
 # 3) Для чего нужен Apache Oozie?
 
+![image](https://github.com/user-attachments/assets/52e46123-08a8-4447-ab8f-86b9530ed8af)
+
+![image](https://github.com/user-attachments/assets/ef307895-7053-41dc-8bf4-ed0d867c5938)
+
+![image](https://github.com/user-attachments/assets/c3ebbd02-4e50-4168-bc6d-17317c72b7c3)
+
 *************************************************************************************************
 
 # 4) Что такое Hive и объясни, как он работает с данными?
