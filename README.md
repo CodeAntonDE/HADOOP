@@ -10,6 +10,13 @@
 *************************************************************************************************
 # 2) Что такое YARN?
 
+![image](https://github.com/user-attachments/assets/205c6e4d-c177-4964-86ff-70bb9b1946ba)
+
+![image](https://github.com/user-attachments/assets/f937cd4d-2f8a-456f-9924-8a17aa4be0e4)
+
+![image](https://github.com/user-attachments/assets/e7153cbf-040e-4357-b464-9bcd3d2c820e)
+
+
 *************************************************************************************************
 
 # 3) Для чего нужен Apache Oozie?
