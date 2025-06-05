@@ -31,6 +31,15 @@
 
 # 4) Что такое Hive и объясни, как он работает с данными?
 
+![image](https://github.com/user-attachments/assets/9938def0-cbe5-48e5-b17f-6a2083396898)
+
+![image](https://github.com/user-attachments/assets/090ba707-a0bc-448b-8147-14b01cc6f0ab)
+
+![image](https://github.com/user-attachments/assets/598590fe-d034-43bc-ac20-5debbe551f8a)
+
+![image](https://github.com/user-attachments/assets/a16a9c87-68d1-4fe6-9205-0e8f1f711543)
+
+
 *************************************************************************************************
 
 # 5) Как работает HDFS?
